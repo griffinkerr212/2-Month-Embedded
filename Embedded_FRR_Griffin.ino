@@ -1,9 +1,7 @@
-// Da Klankerz Code Jawn
-// Watch yo self Jawn
-// Arm in motion Jawn
-// We doin it Jawn
-// No sleep Jawn
-// Slim 
+// 2-Month Rover Embedded Code
+// Team Klankerz
+// Written by Griffin Kerr
+
 #include <Wire.h>
 #include <Arduino.h>
 #include <Adafruit_Sensor.h>
